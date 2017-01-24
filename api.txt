@@ -1,0 +1,1 @@
+https://api.flightstats.com/flex/flightstatus/rest/v2/json/flight/status/AI/120/dep/2017/01/23/?appId=206301f3&appKey=634415b5e90cc7efed47b98fc53769ca
